@@ -1,0 +1,1 @@
+const int LED_PIN = LED_BUILTIN;
